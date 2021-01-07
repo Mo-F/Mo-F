@@ -10,7 +10,7 @@
 
 <font size="2" color="black"><u>Mohammed Foughali</u> and Pierre-Emmanuel Hladik</font>
 
-#### Bridging the Gap between Formal Verification and Schedulability Analysis: The Case of Robotics &nbsp; &nbsp; &nbsp; [pdf](https://www.dropbox.com/s/59nyolac05frimp/1-s2.0-S1383762120301090-main.pdf?dl=0) &nbsp; &nbsp; &nbsp; [cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bridging+the+Gap+between+Formal+Verification+and+Schedulability+Analysis%3A+The+Case+of+Robotics&btnG=)
+#### Bridging the Gap between Formal Verification and Schedulability Analysis: The Case of Robotics &nbsp; &nbsp; &nbsp; [pdf](https://www.dropbox.com/s/59nyolac05frimp/1-s2.0-S1383762120301090-main.pdf?dl=0) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/jsa/FoughaliH20.html?view=bibtex)
 
 In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) 
 
