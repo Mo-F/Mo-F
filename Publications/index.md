@@ -38,7 +38,7 @@ In [the 36th ACM/SIGAPP Symposium On Applied Computing (SAC)](https://www.sigapp
 
 <font size="2" color="black"><u>Mohammed Foughali</u>, Saddek Bensalem, Jacques Combaz and Félix Ingrand</font>
 
-#### Runtime Verification of Timed Properties in Autonomous Robots  &nbsp; &nbsp; &nbsp; pdf (available soon)  &nbsp; &nbsp; &nbsp;  cite (available soon)
+#### Runtime Verification of Timed Properties in Autonomous Robots  &nbsp; &nbsp; &nbsp; [pdf](https://hal.archives-ouvertes.fr/hal-03093298/document)  &nbsp; &nbsp; &nbsp;  cite (available soon)
 
 In [the 18th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE)](https://iitjammu.ac.in/conferences/memocode2020/callforpapers.html), December 02-04, fully virtual (originally at Jaipur, India).
 <br><br><br>
