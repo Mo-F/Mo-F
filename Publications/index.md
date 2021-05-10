@@ -26,7 +26,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2.5" color="black">Guillaume Brau and <u>Mohammed Foughali</u> (equal contribution)</font>
 
-#### Contract-Based Verification of Model Transformations: A Formally Founded Approach &nbsp; &nbsp; &nbsp;  [pdf](https://hal.laas.fr/hal-03059942/document)  &nbsp; &nbsp; &nbsp;  cite (available soon)
+#### Contract-Based Verification of Model Transformations: A Formally Founded Approach &nbsp; &nbsp; &nbsp;  [pdf](https://hal.laas.fr/hal-03059942/document)  &nbsp; &nbsp; &nbsp;  [cite](https://dblp.uni-trier.de/rec/conf/sac/BrauF21.html?view=bibtex)
 
 In [the 36th ACM/SIGAPP Symposium On Applied Computing (SAC)](https://www.sigapp.org/sac/sac2021/index.html), March 22-26, fully virtual (originally at Gwangju, South Korea).
 
