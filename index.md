@@ -1,10 +1,9 @@
 <font size="5" color="blue"><center> "In the name of Physics, Chemistry and the Holy Maths. Amen." <br><br></center></font>
 
 
+I am Maître de Conférences (Associate Professor) at [Université de Paris](https://u-paris.fr/en/), France. I teach at [UFR Informatique (Department of Computer Science)](http://www.informatique.univ-paris-diderot.fr/ufr/presentation_ufr) and conduct my research activities within the [Modeling and Verification team](https://www.irif.fr/en/equipes/verif/index) at [Institut de Recherche en Informatique Fondamentale IRIF](https://www.irif.fr/index).
 
-I am a postdoctoral researcher at [Verimag](https://www.verimag.fr), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). I am currently working on the design and statistical model checking of the FDIR components in the [ADE EU project](https://www.h2020-ade.eu) using the [BIP Toolset](https://www-verimag.imag.fr/BIP-Tools-93).
-
-From september 2018 to August 2019, I was a fixed-term lecturer and researcher (Attaché Temporaire de l'Enseignement de de la Recherche) at [INSA Toulouse](http://www.insa-toulouse.fr/en/index.html) and [LAAS-CNRS](https://www.laas.fr/public/en), France. I taught at the [Department of Computer Science and Electrical Engineering](http://gei.insa-toulouse.fr/en/index.html) and conducted my research within the [VERTICS team](https://www.laas.fr/public/en/vertics).
+Before, I was a fixed-term lecturer and researcher (Attaché Temporaire de l'Enseignement de de la Recherche) at [INSA Toulouse](http://www.insa-toulouse.fr/en/index.html) and [LAAS-CNRS](https://www.laas.fr/public/en), then a postdoctoral researcher at [Verimag](https://www.verimag.fr), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). See my biography [here](https://mo-f.github.io/Mo-F/Biography/).
 
 I defended my [PhD thesis](https://www.dropbox.com/s/25wv00vx28394yd/paper.pdf?dl=0) on December 17th 2018.
 
@@ -29,7 +28,4 @@ Robotics
 
 ### Contact me
 
-
-Phone: +33 (0)4 57 42 22 51
-
-Email: mohammed.foughali@univ-grenoble-alpes.fr
+foughali@irif.fr
