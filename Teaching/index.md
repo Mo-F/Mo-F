@@ -1,9 +1,9 @@
 # Teaching
 
-##Present (coming soon)
+## Present (coming soon)
 
 
-##Past
+## Past
 
 I taught the following subjects at [INSA Toulouse](http://www.insa-toulouse.fr/en/index.html), [Université de Toulouse](https://en.univ-toulouse.fr), from September 2016 to August 2019:
 
