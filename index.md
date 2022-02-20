@@ -9,21 +9,7 @@ I defended my [PhD thesis](https://www.dropbox.com/s/25wv00vx28394yd/paper.pdf?d
 
 ### My Research Interests
 
-Formal Verification of Robotic and Autonomous Systems
-
-### Skills:
-
-Formalization of Languages and Systems
-
-Formal Modeling and Verification of Timed Systems
-
-Time Petri Nets, Timed Automata, Transition Systems
-
-Real-Time Systems 
-
-Algorithmics & Programming
-
-Robotics
+Formal methods, real-time systems, robotics. Details under [Research](https://mo-f.github.io/Mo-F/Research/) and [Publications](https://mo-f.github.io/Mo-F/Publications/) sections.
  
 
 ### Contact me
