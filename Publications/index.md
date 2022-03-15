@@ -2,6 +2,16 @@
 
 ## Journal Articles
 
+### 2022
+
+ 
+
+<font size="2" color="black"><u>Mohammed Foughali</u> and Alexander Züpke</font>
+
+#### Formal Verification of Real-Time Autonomous Robots: An Interdisciplinary Approach &nbsp; &nbsp; &nbsp; pdf (available soon) &nbsp; &nbsp; &nbsp; cite (available soon)
+
+In [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) 
+
  
 
 ### 2020
