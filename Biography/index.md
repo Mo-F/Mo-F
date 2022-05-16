@@ -2,7 +2,7 @@
 
 # 2013 -- present
 
-I am an Associate Professor at [Université de Paris](https://u-paris.fr/en/) and [Institut de Recherche en Informatique Fondamentale](https://www.irif.fr/index).
+I am an Associate Professor at [Université Paris Cité](https://u-paris.fr/en/) and [Institut de Recherche en Informatique Fondamentale](https://www.irif.fr/index).
 
 From September 2019 to June 2021, I was a postdoctoral researcher at [Verimag](https://www.verimag.fr), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), France.
 
