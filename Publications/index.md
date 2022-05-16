@@ -8,7 +8,7 @@
 
 <font size="2" color="black"><u>Mohammed Foughali</u> and Alexander Züpke</font>
 
-#### Formal Verification of Real-Time Autonomous Robots: An Interdisciplinary Approach &nbsp; &nbsp; &nbsp; [pdf](https://hal.archives-ouvertes.fr/hal-03624519/document) &nbsp; &nbsp; &nbsp; cite (available soon)
+#### Formal Verification of Real-Time Autonomous Robots: An Interdisciplinary Approach &nbsp; &nbsp; &nbsp; [pdf](https://hal.archives-ouvertes.fr/hal-03624519/document) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/firai/FoughaliZ22.html?view=bibtex)
 
 In [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai) 
 
