@@ -5,7 +5,7 @@
 
 ### 2023
 
-<font size="2" color="black"><u>M. Foughali</u> P-E Hladik and A. Züpke</font>
+<font size="2" color="black"><u>M. Foughali</u>, P-E Hladik and A. Züpke</font>
 
 #### Compositional Verification of Embedded Real-Time Systems &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04125520v1/document) &nbsp; &nbsp; &nbsp; cite (available soon)
 
