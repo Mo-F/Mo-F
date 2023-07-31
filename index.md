@@ -1,7 +1,7 @@
 <font size="5" color="blue"><center> "In the name of Physics, Chemistry and the Holy Maths. Amen." <br><br></center></font>
 
 
-<font size="5" color="red"> NB: My publications are available on HAL. For a better experience, always use the HAL version provided under the Publication section of this page. The HAL version of any of my publications ensures the absence of copy-editing mistakes that were not caught or could not be corrected during the publication process.  <br><br></font>
+<font size="3" color="red"> NB: My publications are available on HAL. For a better experience, always use the HAL version provided under the Publication section of this page. The HAL version of any of my publications ensures the absence of copy-editing mistakes that were not caught or could not be corrected during the publication process.  <br><br></font>
 
 
 I am Maître de Conférences (Associate Professor) at [Université Paris Cité](https://u-paris.fr/en/), France. I teach at [UFR Informatique (Department of Computer Science)](http://www.informatique.univ-paris-diderot.fr/ufr/presentation_ufr) and conduct my research activities within the [Modeling and Verification team](https://www.irif.fr/en/equipes/verif/index) at [Institut de Recherche en Informatique Fondamentale IRIF](https://www.irif.fr/index).
