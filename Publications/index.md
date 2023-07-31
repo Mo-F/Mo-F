@@ -1,5 +1,6 @@
 # Publications
 
+
 ## Journal Articles
 
 
@@ -30,7 +31,7 @@ In [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-
 
 <font size="2" color="black"><u>M. Foughali</u> and P-E. Hladik</font>
 
-#### Bridging the Gap between Formal Verification and Schedulability Analysis: The Case of Robotics &nbsp; &nbsp; &nbsp; [pdf](https://www.dropbox.com/s/59nyolac05frimp/1-s2.0-S1383762120301090-main.pdf?dl=0) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/jsa/FoughaliH20.html?view=bibtex)
+#### Bridging the Gap between Formal Verification and Schedulability Analysis: The Case of Robotics &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-02864928v3/document) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/jsa/FoughaliH20.html?view=bibtex)
 
 In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) 
 
