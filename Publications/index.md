@@ -40,6 +40,16 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 ## Conference Papers
 
  
+### 2023
+
+ 
+
+<font size="2.5" color="black"><u>M. Foughali</u></font>
+
+#### Some Thoughts on Teaching Introductory Programming and the First Language Dilemma &nbsp; &nbsp; &nbsp;  pdf (available soon)  &nbsp; &nbsp; &nbsp;  cite (available soon)
+
+In [the 23rd Koli Calling International Conference on Computing Education Research (Koli Calling '23)](https://www.kolicalling.fi), November 13-19, Koli, Finland.
+
 
 ### 2021
 
