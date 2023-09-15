@@ -8,7 +8,7 @@
 
 <font size="2" color="black"><u>M. Foughali</u>, P-E Hladik and A. Züpke</font>
 
-#### Compositional Verification of Embedded Real-Time Systems &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04125520v1/document) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/jsa/FoughaliHZ23.html?view=bibtex)
+#### Compositional Verification of Embedded Real-Time Systems &nbsp; &nbsp; [pdf](https://hal.science/hal-04125520v1/document) &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/jsa/FoughaliHZ23.html?view=bibtex)
 
 In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) 
 
