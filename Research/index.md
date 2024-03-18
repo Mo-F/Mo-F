@@ -12,7 +12,7 @@ Currently, my research activities gravitate around three major axes:
 
 - Safe AI-enabled CPS, within the [CyPhAI project](https://www.cyphai.io).
 
-Recently, I took some interest in computing education challenges. See the Koli Calling 2023 paper under the [Publications](https://mo-f.github.io/Mo-F/Publications) section. 
+Recently, I took some interest in computing education research. See the Koli Calling 2023 paper under the [Publications](https://mo-f.github.io/Mo-F/Publications) section. 
 
 ### L'histoire ancienne 
 
