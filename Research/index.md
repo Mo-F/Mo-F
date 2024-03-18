@@ -6,9 +6,9 @@ I am mainly interested in rigorous modeling and verification of real-world, real
 
 Currently, my activities gravitate around three major activities:
 
-- Hybrid approaches for the scalable verification of multicore real-time systems. My most advanced work on the topic, for the moment, is described in the JSA 2023 publication, a joint work with P-E Hladik and Alex Züpke (see the [Publications](https://mo-f.github.io/Mo-F/Publications) section).
+- Hybrid approaches for the scalable verification of multicore real-time systems. My most advanced work on the topic, for the moment, is described in the JSA 2023 publication, a joint work with P-E Hladik and Alex Züpke, see the [Publications](https://mo-f.github.io/Mo-F/Publications) section.
 
-- Runtime monitoring of real-time systems. Currently focusing on the monitorability problem in a joint effort with Giovanni Bernardi and Adrian Francalanza.
+- Runtime monitoring of real-time systems. 
 
 - Safe AI-enabled CPS, within the [CyPhAI project](https://www.cyphai.io).
 
