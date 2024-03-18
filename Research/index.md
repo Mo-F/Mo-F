@@ -2,9 +2,9 @@
 
 ### Today
 
-I am mainly interested in rigorous modeling and verification of real-world, real-time systems. One major challenges I enjoy tackling, one theorem/model/artefact at a time, is how to reconcile scalability with correctness and user-friendliness. 
+I am mainly interested in rigorous modeling and verification of real-world, real-time systems. One major challenge I enjoy tackling, one theorem/model/artefact at a time, is how to reconcile scalability with correctness and user-friendliness. A major part of my research is based on timed automata and timed logics. 
 
-Currently, my activities gravitate around three major activities:
+Currently, my activities gravitate around three major axes:
 
 - Hybrid approaches for the scalable verification of multicore real-time systems. My most advanced work on the topic, for the moment, is described in the JSA 2023 publication, a joint work with P-E Hladik and Alex Züpke, see the [Publications](https://mo-f.github.io/Mo-F/Publications) section.
 
