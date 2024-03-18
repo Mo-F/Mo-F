@@ -4,7 +4,7 @@
 
 I am mainly interested in rigorous modeling and verification of real-world, real-time systems. One major challenge I enjoy tackling, one theorem/model/artefact at a time, is how to reconcile scalability with correctness and user-friendliness. A major part of my research is based on timed automata and timed logics. 
 
-Currently, my activities gravitate around three major axes:
+Currently, my research activities gravitate around three major axes:
 
 - Hybrid approaches for the scalable verification of multicore real-time systems. My most advanced work on the topic, for the moment, is described in the JSA 2023 publication, a joint work with P-E Hladik and Alex Züpke, see the [Publications](https://mo-f.github.io/Mo-F/Publications) section.
 
@@ -22,7 +22,7 @@ A summary of my postdoctoral research activities is given below.
 
 - I participated in the [DSAAM](https://redmine.laas.fr/projects/dsaam) decentralized simulation framework for cyber-physical systems, developed within the RIS team at LAAS-CNRS. My contribution to the framework consisted in proposing rigorous formal syntax and semantics and the development of liveness proofs. See the QRS paper under [Publications](https://mo-f.github.io/Mo-F/Publications) for more details. 
 
-- I pioneered a binary-search-based method that allows extending timed automata models of robotic applications with dynamic-priority schedulers in a (more) scalable way. See my two papers on the subject (DETECT & JSA in [Publications](https://mo-f.github.io/Mo-F/Publications)) and the [Artefacts](https://mo-f.github.io/Mo-F/Artefacts) section for more details.
+- I pioneered a binary-search-based method that allows extending timed automata models of robotic applications with dynamic-priority schedulers in a (more) scalable way. See my two papers on the subject (DETECT 2019 & JSA 2020 in [Publications](https://mo-f.github.io/Mo-F/Publications)) and the [Artefacts](https://mo-f.github.io/Mo-F/Artefacts) section for more details.
 
 - I was the lead contributor to a research activity on formal execution and runtime verification of robotic applications using the [BIP real-time engine](https://www-verimag.imag.fr/Real-Time-Engine.html). In particular, this work relies on a fully automatic translation of robotic specifications into RT-BIP, executing the resulting RT-BIP models on a real robotic platform, and verifying timed properties at runtime using RT-BIP monitors. See the MEMOCODE paper under [Publications](https://mo-f.github.io/Mo-F/Publications) and the videos links under [Artefacts](https://mo-f.github.io/Mo-F/Artefacts)  for more details.
 
