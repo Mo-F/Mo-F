@@ -4,7 +4,7 @@ Below is a selection of some useful links (videos and artefacts) related to my [
 
 
 
-[This link](https://gitlab.math.univ-paris-diderot.fr/foughali/fhz_aeic-jsa) directs to the artefact related to the JSA 2023 paper (see [Publications](https://mo-f.github.io/Mo-F/Publications/)). It includes an open-source, automatic chain to solve the affinity problem, as well as to verify various real-time properties of multicore real-time systems. These include a tight computation of tasks WCRTs while integrating blocking due to sharing data. A tutorial video to use the chain is available as well.
+[This link](https://gitlab.math.univ-paris-diderot.fr/foughali/fhz_aeic-jsa) directs to the artefact related to the JSA 2023 paper (see [Publications](https://mo-f.github.io/Mo-F/Publications/)). It includes an open-source, automatic chain to compute affinities, as well as to verify various real-time properties of multicore real-time systems. These include a tight computation of tasks WCRTs while integrating blocking due to sharing data. A tutorial video to use the chain is available as well.
 
 
 [This link](https://github.com/Mo-F/uppaal-smc-exp) directs to the artefact related to the SPIN paper (see [Publications](https://mo-f.github.io/Mo-F/Publications/)). It includes automatic generation of an UPPAAL-SMC model from a drone robotic application as well as statistical model checking of various behavioral and timed properties.
