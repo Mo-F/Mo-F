@@ -1,8 +1,22 @@
 ## Research
 
-I am mainly interested in rigorous modeling and verification of real-world systems. I focus on automatizing the modeling and verification of specifications deployed on real systems, as to render formal methods accessible to non-expert practitioners.
+### Today
 
-During my PhD, I had worked within the [RIS](https://www.laas.fr/public/en/ris) team at [LAAS-CNRS](https://www.laas.fr/public/en) on semantisizing the robotic framework [GenoM3](https://git.openrobots.org/projects/genom3/wiki/Wiki), based on which I developed several mathematically proven translations to major formal verification frameworks, namely [Fiacre](http://projects.laas.fr/fiacre/)/[TINA](http://projects.laas.fr/tina/), [UPPAAL](https://uppaal.org), [UPPAAL-SMC](http://people.cs.aau.dk/~adavid/smc/), and [Real-Time BIP (RT-BIP)](https://www-verimag.imag.fr/BIP-Tools-93.html?lang=en). This work involved several partners from different universities, laboratories and companies: the [VERTICS team](https://www.laas.fr/public/en/vertics) (LAAS-CNRS), the [Verimag Lab](https://www.verimag.fr), the [FMAES team](http://www.es.mdh.se/research-groups/35-Formal_Modelling_and_Analysis_of_Embedded_Systems) ([University of Mälardalen](https://www.mdh.se/en/malardalen-university)) and [EasyMile Toulouse](https://easymile.com), and resulted in templates that automatically translate any GenoM3 specification into the aforementioned formal environments. The case studies ranged from a drone flight control to a terrestrial navigation, on which various real-time properties were verified using different techniques (model checking, statistical model checking and runtime verification). See my [PhD thesis](https://www.dropbox.com/s/25wv00vx28394yd/paper.pdf?dl=0), [Publications](https://mo-f.github.io/Mo-F/Publications) and [Artefacts](https://mo-f.github.io/Mo-F/Artefacts) for more details.
+I am mainly interested in rigorous modeling and verification of real-world, real-time systems. One major challenges I enjoy tackling, one theorem/model/artefact at a time, is how to reconcile scalability with correctness and user-friendliness. 
+
+Currently, my activities gravitate around three major activities:
+
+- Hybrid approaches for the scalable verification of multicore real-time systems. My most advanced work on the topic, for the moment, is described in the JSA 2023 publication, a joint work with P-E Hladik and Alex Züpke (see the [Publications](https://mo-f.github.io/Mo-F/Publications) section).
+
+- Runtime monitoring of real-time systems. Currently focusing on the monitorability problem in a joint effort with Giovanni Bernardi and Adrian Francalanza.
+
+- Safe AI-enabled CPS, within the [CyPhAI project](https://www.cyphai.io).
+
+Recently, I took some interest in computing education challenges. See the Koli Calling 2023 paper under the [Publications](https://mo-f.github.io/Mo-F/Publications) section. 
+
+### L'histoire ancienne 
+
+During my PhD, I had worked within the [RIS](https://www.laas.fr/public/en/ris) team at [LAAS-CNRS](https://www.laas.fr/public/en) on semantisizing the robotic framework GenoM3, based on which I developed several mathematically proven translations to major formal verification frameworks, namely [Fiacre](http://projects.laas.fr/fiacre/)/[TINA](http://projects.laas.fr/tina/), [UPPAAL](https://uppaal.org), [UPPAAL-SMC](http://people.cs.aau.dk/~adavid/smc/), and [Real-Time BIP (RT-BIP)](https://www-verimag.imag.fr/BIP-Tools-93.html?lang=en). This work involved several partners from different universities, laboratories and companies: the [VERTICS team](https://www.laas.fr/public/en/vertics) (LAAS-CNRS), the [Verimag Lab](https://www.verimag.fr), the [FMAES team](http://www.es.mdh.se/research-groups/35-Formal_Modelling_and_Analysis_of_Embedded_Systems) ([University of Mälardalen](https://www.mdh.se/en/malardalen-university)) and [EasyMile Toulouse](https://easymile.com), and resulted in templates that automatically translate any GenoM3 specification into the aforementioned formal environments. The case studies ranged from a drone flight control to a terrestrial navigation, on which various real-time properties were verified using different techniques (model checking, statistical model checking and runtime verification). See my [PhD thesis](https://www.dropbox.com/s/25wv00vx28394yd/paper.pdf?dl=0), [Publications](https://mo-f.github.io/Mo-F/Publications) and [Artefacts](https://mo-f.github.io/Mo-F/Artefacts) for more details.
 
 A summary of my postdoctoral research activities is given below.
 
