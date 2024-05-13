@@ -39,6 +39,14 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 ## Conference Papers
 
+### 2024
+
+<font size="2" color="black"><u>M. Foughali</u>, M. Mikučionis and M. Zhang</font>
+
+#### Scalable Computation of Inter-Core Bounds through Exact Abstractions &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04571414/document) &nbsp; &nbsp; &nbsp; cite (available soon)
+
+In [the 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC)](https://ieeecompsac.computer.org/2024/), July 2-4, Osaka, Japan. 
+
  
 ### 2023
 
