@@ -42,7 +42,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 ### 2024
 
 
-<font size="2" color="black"><u>N. Rino</u>, M. Foughali and E. Asarin</font>
+<font size="2" color="black">N. Rino, <u>M. Foughali</u> and E. Asarin</font>
 
 #### Efficiently Computable Distance-Based Robustness for a Practical Fragment of STL &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04622387/document) &nbsp; &nbsp; &nbsp; cite (available soon)
 
