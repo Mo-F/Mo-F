@@ -44,7 +44,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2" color="black">N. Rino, <u>M. Foughali</u> and E. Asarin</font>
 
-#### Efficiently Computable Distance-Based Robustness for a Practical Fragment of STL &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04622387/document) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/conf/qestformats/RinoFA24.html?view=bibtex) <font size="3" color="red"> Best Paper Award  <br><br></font>
+#### Efficiently Computable Distance-Based Robustness for a Practical Fragment of STL &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-04622387/document) &nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/conf/qestformats/RinoFA24.html?view=bibtex) &nbsp; &nbsp; &nbsp; <font size="2" color="red"> Best Paper Award  <br><br></font>
 
 In [the 22nd International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)](https://www.qest-formats.org), September 9-13, Calgary, Canada. 
 
