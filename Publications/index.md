@@ -44,7 +44,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2" color="black">N. Kochdumper, <u>M. Foughali</u>, P. Habermehl and E. Asarin</font>
 
-#### Robust Identification of Hybrid Automata from Noisy Data\ 
+#### Robust Identification of Hybrid Automata from Noisy Data
 <span style="color:gray">pdf (available soon)</span> &nbsp; &nbsp; &nbsp; <span style="color:gray">cite (available soon)</span>
 
 In [the 28th ACM International Conference on Hybrid Systems: Computation and Control (HSCC)](https://hscc.acm.org/2025/), May 6-9, Irvine, USA.
