@@ -45,7 +45,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2" color="black">M. Amara, G. Bernardi, <u>M. Foughali</u> and A. Francalanza (authors sorted alphabetically)</font>
 
-#### A Theory of (Linear-Time) Timed Monitors &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:gray">(to appear)</span> 
+#### A Theory of (Linear-Time) Timed Monitors &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-05043055/document)&nbsp; &nbsp; &nbsp; <span style="color:gray">cite (soon)</span>
 
 In [the 39th European Conference on Object-Oriented Programming (ECOOP)](https://2025.ecoop.org), June 30-July 4, Bergen, Norway.
 
