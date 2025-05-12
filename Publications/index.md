@@ -52,7 +52,7 @@ In [the 39th European Conference on Object-Oriented Programming (ECOOP)](https:/
 
 <font size="2" color="black">N. Kochdumper, <u>M. Foughali</u>, P. Habermehl and E. Asarin</font>
 
-#### Robust Identification of Hybrid Automata from Noisy Data &nbsp; &nbsp; &nbsp; <span style="color:gray">(to appear)</span>
+#### Robust Identification of Hybrid Automata from Noisy Data &nbsp; &nbsp; &nbsp; <span style="color:gray">(to appear)</span> &nbsp; &nbsp; &nbsp; <font size="2" color="green"> Best Repeatability Evaluation Award  <br><br></font>
 
 In [the 28th International Conference on Hybrid Systems: Computation and Control (HSCC)](https://hscc.acm.org/2025/), May 6-9, Irvine, USA.
 
