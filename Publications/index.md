@@ -45,14 +45,14 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2" color="black">M. Amara, G. Bernardi, <u>M. Foughali</u> and A. Francalanza (authors sorted alphabetically)</font>
 
-#### A Theory of (Linear-Time) Timed Monitors &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-05043055/document)&nbsp; &nbsp; &nbsp; <span style="color:gray">cite (soon)</span> <font size="2" color="red"> Distinguished Paper Award  <br><br></font>
+#### A Theory of (Linear-Time) Timed Monitors &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [pdf](https://hal.science/hal-05043055/document)&nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/conf/ecoop/Amara0FF25.html?view=bibtex) &nbsp; &nbsp; <font size="2" color="red"> Distinguished Paper Award  <br><br></font>
 
 In [the 39th European Conference on Object-Oriented Programming (ECOOP)](https://2025.ecoop.org), June 30-July 4, Bergen, Norway.
 
 
 <font size="2" color="black">N. Kochdumper, <u>M. Foughali</u>, P. Habermehl and E. Asarin</font>
 
-#### Robust Identification of Hybrid Automata from Noisy Data &nbsp; &nbsp; &nbsp; <span style="color:gray">(to appear)</span> &nbsp; &nbsp; &nbsp; <font size="2" color="green"> Best Repeatability Evaluation Award  <br><br></font>
+#### Robust Identification of Hybrid Automata from Noisy Data &nbsp; &nbsp; &nbsp; [pdf](https://dl.acm.org/doi/pdf/10.1145/3716863.3718030)&nbsp; &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/conf/hybrid/KochdumperFHA25.html?view=bibtex) &nbsp; &nbsp; <font size="2" color="green"> Best Repeatability Evaluation Award  <br><br></font>
 
 In [the 28th International Conference on Hybrid Systems: Computation and Control (HSCC)](https://hscc.acm.org/2025/), May 6-9, Irvine, USA.
 
