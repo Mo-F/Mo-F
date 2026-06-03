@@ -4,6 +4,15 @@
 ## Journal Articles
 
 
+### 2026
+
+<font size="2" color="black">N. Rino, <u>M. Foughali</u>, F. Renkin and E. Asarin</font>
+
+#### Efficiently computable temporal robustness for a practical STL fragment &nbsp; &nbsp; [pdf](https://link.springer.com/article/10.1007/s10009-026-00852-2#preview) &nbsp; &nbsp; [cite](https://dblp.uni-trier.de/rec/journals/sttt/RinoFRA26.html?view=bibtex)
+
+In [International Journal on Software Tools for Technology Transfer (STTT)](https://link.springer.com/journal/10009)
+
+
 ### 2023
 
 <font size="2" color="black"><u>M. Foughali</u>, P-E Hladik and A. Züpke</font>
