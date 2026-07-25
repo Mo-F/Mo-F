@@ -48,6 +48,15 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 ## Conference Papers
 
+### 2026
+
+
+<font size="2" color="black"><u>M. Foughali</u> </font>
+
+#### Revisiting the Expressiveness of Metric Temporal Logic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (to appear)
+
+In [the 33rd International Symposium on Temporal Representation and Reasoning (TIME)](https://time26.cnr.it), September 1st-4th, Cork, Ireland.
+
 
 ### 2025
 
