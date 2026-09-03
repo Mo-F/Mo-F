@@ -53,7 +53,7 @@ In [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/jou
 
 <font size="2" color="black"><u>M. Foughali</u> </font>
 
-#### Revisiting the Expressiveness of Metric Temporal Logic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (to appear)
+#### Revisiting the Expressiveness of Metric Temporal Logic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (to appear)  &nbsp; &nbsp; <font size="2" color="red"> Best Paper Award  <br><br></font>
 
 In [the 33rd International Symposium on Temporal Representation and Reasoning (TIME)](https://time26.cnr.it), September 1-4, Cork, Ireland.
 
